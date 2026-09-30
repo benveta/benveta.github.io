@@ -1,1 +1,95 @@
-# benveta.github.io
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy – TileDrift Ben</title>
+<meta name="description" content="Privacy Policy for the TileDrift Ben mobile puzzle game.">
+<style>
+  :root { --bg:#ffffff; --fg:#1b1f24; --muted:#57606a; --link:#0b57d0; --line:#d8dee4; --card:#f6f8fa; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#0f1318; --fg:#e6edf3; --muted:#9aa4af; --link:#7ab7ff; --line:#2b333c; --card:#161b22; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.65 system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
+  main { max-width:720px; margin:0 auto; padding:32px 16px 64px; }
+  h1 { font-size:1.9rem; line-height:1.25; margin:0 0 4px; }
+  h2 { font-size:1.2rem; margin:2rem 0 .5rem; padding-top:.5rem; border-top:1px solid var(--line); }
+  p, li { margin:.5rem 0; }
+  ul { padding-left:1.25rem; }
+  a { color:var(--link); }
+  .meta { color:var(--muted); margin:0 0 1.5rem; }
+  .summary { background:var(--card); border:1px solid var(--line); border-radius:8px; padding:12px 16px; }
+  .summary p { margin:.35rem 0; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Privacy Policy</h1>
+  <p class="meta"><strong>TileDrift Ben</strong> · Last updated: September 30, 2026</p>
+
+  <div class="summary">
+    <p><strong>In short:</strong></p>
+    <p>TileDrift Ben has no accounts and no game server. Your progress stays on your device. The game shows ads through Google AdMob, and offers an optional one-time purchase to remove ads, which is handled by the app store and RevenueCat.</p>
+  </div>
+
+  <h2>1. About this policy</h2>
+  <p>This policy explains how the mobile puzzle game <strong>TileDrift Ben</strong> (“the app”, “we”, “us”) handles information on Android and iOS. By using the app you agree to this policy. If you do not agree, please do not use the app.</p>
+
+  <h2>2. Information that stays on your device</h2>
+  <p>The app stores your game progress, unlocked content and settings on your device only. We do not operate a server that receives this information, and we cannot see it. Uninstalling the app or clearing its data removes it.</p>
+  <p>If you allow notifications, they are created on your device. We do not receive or store any notification data.</p>
+
+  <h2>3. What we do not do</h2>
+  <ul>
+    <li>We do not ask you to create an account, and we do not collect your name, email address, phone number or precise location.</li>
+    <li>We do not use analytics or crash-reporting services in the app.</li>
+    <li>We do not sell your personal information.</li>
+  </ul>
+
+  <h2>4. Advertising (Google AdMob)</h2>
+  <p>The app shows ads using Google AdMob. To deliver, measure and secure ads, Google receives information from your device, which can include your device’s advertising ID, IP address, the name of the app, device and operating-system details, and how you interact with ads. Google may use this information to show personalized ads if you allow it, and for measurement and fraud prevention. Google may also derive your approximate location from your IP address.</p>
+  <p>Learn more:</p>
+  <ul>
+    <li><a href="https://policies.google.com/technologies/partner-sites">How Google uses information from sites or apps that use its services</a></li>
+    <li><a href="https://policies.google.com/privacy">Google Privacy Policy</a></li>
+  </ul>
+  <p><strong>Your choices:</strong></p>
+  <ul>
+    <li>Where required by law (for example in the European Economic Area and the United Kingdom), the app asks for your consent before showing personalized ads. You can change your choice later from the app’s privacy options, when available in your region.</li>
+    <li>On iPhone and iPad, the app asks for permission to track you across other companies’ apps and websites. You can change this at any time in your device settings.</li>
+    <li>On Android and iOS you can reset your advertising ID or limit ad personalization in your device settings. You can also manage Google’s ad personalization at <a href="https://adssettings.google.com">adssettings.google.com</a>.</li>
+  </ul>
+
+  <h2>5. Purchases (Remove Ads)</h2>
+  <p>The app offers an optional one-time purchase that removes ads. Payment is handled entirely by Google Play or the Apple App Store; we never see your card or payment details.</p>
+  <p>To confirm and restore your purchase, the app uses RevenueCat, which processes purchase information on our behalf. This can include your device type and operating system, your purchase receipt or token from the store, the last time the app was used, and an identifier used to restore your purchase. RevenueCat stores this data on servers in the United States. See the <a href="https://www.revenuecat.com/privacy">RevenueCat Privacy Policy</a> for details.</p>
+
+  <h2>6. International transfers</h2>
+  <p>Google and RevenueCat operate internationally, so information related to ads and purchases may be processed in countries other than your own, including the United States.</p>
+
+  <h2>7. Security</h2>
+  <p>Data sent by the advertising and purchase services is protected in transit using encryption. No method of electronic transmission or storage is completely secure, so we cannot guarantee absolute security.</p>
+
+  <h2>8. Data retention and deletion</h2>
+  <ul>
+    <li><strong>On your device:</strong> data is kept until you uninstall the app or clear its data.</li>
+    <li><strong>Ad data:</strong> retained by Google under its own policies (see the links in section 4).</li>
+    <li><strong>Purchase records:</strong> retained by RevenueCat and the app stores under their own policies. To ask us to request deletion of a purchase record, contact us using the email below.</li>
+  </ul>
+
+  <h2>9. Children</h2>
+  <p>The app is not directed to children under 13 (or the minimum age required in your country). We do not knowingly collect personal information from children. If you believe a child has provided information through the app, contact us and we will help get it removed.</p>
+
+  <h2>10. Your rights</h2>
+  <p>Depending on where you live (for example under the GDPR, UK GDPR, or the California Consumer Privacy Act), you may have rights to access, correct, delete or restrict the use of your personal information, to object to certain processing, and to withdraw consent. We hold very little personal information ourselves, because most data stays on your device or is handled by Google and RevenueCat. To make a request, or to ask which of these providers holds data about you, contact us below. We will respond within a reasonable time.</p>
+
+  <h2>11. Changes to this policy</h2>
+  <p>We may update this policy from time to time. The “Last updated” date at the top shows when it last changed. Significant changes will be reflected in this policy and, where required, in the app.</p>
+
+  <h2>12. Contact</h2>
+  <p>Questions or requests about this policy or your data:<br>
+  <a href="mailto:ragnibenapps@gmail.com">ragnibenapps@gmail.com</a></p>
+</main>
+</body>
+</html>
